@@ -17,6 +17,7 @@ Another important aspect is version control and document history. A real-time co
 Security and access control are also essential components. Users may need to sign in, and permissions can be set to define who can view, edit, or comment on a document. This ensures that sensitive information is protected and that only authorized users can make changes.
 Overall, a real-time collaborative document editor greatly enhances productivity by supporting teamwork, remote collaboration, and instant communication. It is especially useful for students, developers, content creators, and organizations that require efficient cooperation, making it a powerful tool in today’s digital and connected work environment.
 
-Output- 
-Output- 
-Output- 
+Output- <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e96771cb-c291-40a4-a10d-d552f253ef6b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d0233ca4-a21f-4d70-8633-00865b35a4f3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5546fac1-f603-4d32-9dbd-428bbcbc6507" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/750b05d7-0b62-4f22-89c2-73aacd4e2409" />
