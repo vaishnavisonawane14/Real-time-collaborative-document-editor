@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+company name - CODTECH IT SOLUTIONS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NAME - Vaishnavi Sonawane 
 
-## Available Scripts
+Intern Id-CTIS1799
 
-In the project directory, you can run:
+Domain- Full stack web Development
 
-### `npm start`
+Duration-4 Weeks 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Mentor- Neela Santosh
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Description- A real-time collaborative document editor is a modern web-based application designed to allow multiple users to work on the same document at the same time from different locations. Unlike traditional document editors where only one person can edit a file at once, this system enables instant collaboration, making teamwork faster, smoother, and more efficient. As soon as one user types, deletes, or formats text, those changes are immediately reflected on the screens of all other connected users, creating a shared editing experience in real time.
+At the core of a real-time collaborative document editor is live synchronization technology. This ensures that all users always see the most up-to-date version of the document, even when several people are editing different parts simultaneously. Technologies such as WebSockets or real-time databases are commonly used to maintain a persistent connection between the client and the server, allowing data to be transmitted instantly without requiring page refreshes. Conflict-resolution techniques are also applied to handle situations where multiple users edit the same section at once, ensuring that changes are merged correctly without data loss.
+User presence and awareness are key features of this system. Each participant can see who else is currently working on the document, often represented by usernames, cursors, or colored highlights. This helps users understand where others are editing and prevents confusion. Some editors also include real-time chat or comment features, allowing users to communicate directly within the application while collaborating on the document.
+Another important aspect is version control and document history. A real-time collaborative editor typically tracks all changes made to a document over time, enabling users to view previous versions, compare edits, and restore earlier content if needed. This adds a layer of safety and accountability, making it easier to recover from mistakes and understand how the document evolved.
+Security and access control are also essential components. Users may need to sign in, and permissions can be set to define who can view, edit, or comment on a document. This ensures that sensitive information is protected and that only authorized users can make changes.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Output- 
+Overall, a real-time collaborative document editor greatly enhances productivity by supporting teamwork, remote collaboration, and instant communication. It is especially useful for students, developers, content creators, and organizations that require efficient cooperation, making it a powerful tool in today’s digital and connected work environment.
